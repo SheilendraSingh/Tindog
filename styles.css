@@ -1,0 +1,172 @@
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3.7rem;
+    line-height: 1.5;
+    margin-right: 15%;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+.h3-para {
+    color: #8f8f8f;
+}
+
+body {
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+
+.container-0 {
+    padding: 3% 12% 6%;
+
+}
+.container-1 {
+    padding: 0% 12% 3%;
+
+}
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.title-image {
+    width: 20%;
+    transform: rotate(25deg);
+    position: absolute;
+    margin-left: 9%;
+}
+#features {
+    padding: 7% 15%;
+    background-color: #fff;
+    z-index: 1;
+    position: relative;
+  
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%
+}
+.navbar {
+    padding: 0 0 3rem;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 2.3rem;
+}
+
+.nav-item {
+    padding: 0px 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+.download-button {
+    margin: 5% 3.5% 5% 0;
+}
+
+
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+#testimonials {
+    background-color: #ef8172;
+    color: #fff;
+    padding: 7%;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.testimonials-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 30px 50px;
+}
+
+#pricing{
+    text-align: center;
+    margin: 7% 0;
+}
+
+.price-sec{
+    margin-bottom: 4%;
+}
+.card{
+    margin: 0 3%;
+}
+.card-header{
+    padding-top : 16px;
+}
+.card-body{
+    padding-bottom: 18px;
+}
+
+.pricing-colomn{
+    text-align: center;
+}
+
+.container-2{
+    padding: 3% 12% ;
+    
+}
+
+#cta{
+    background-color: #ff4c68;
+    color: #fff;
+    font-family: 'Montsetrrat', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    padding: 8% 25%;
+}
+
+#footer{
+    padding: 6% 0 4%;
+    text-align: center;
+    background-color: #fff;
+    color: #8f8f8f;
+}
+.button-icon{
+    margin-right: 7px;
+}
+.footer-icon{
+    color: black;
+    margin-right: 20px;
+}
